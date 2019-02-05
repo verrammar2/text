@@ -4,7 +4,7 @@ public class NumeroPractica {
 	public static void main(String[] parametros) {
 		final int MAX= 10;
 		int i, j, lim;
-		
+		//Cambio
 		i = 0;
 		lim = MAX;
 		
